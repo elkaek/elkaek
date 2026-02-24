@@ -26,13 +26,13 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/b432cac0-9bff-4598-b392-a11c096e2ff2" width="500" alt="Left Image">
+      <img src="https://github.com/user-attachments/assets/b432cac0-9bff-4598-b392-a11c096e2ff2" width="250" alt="Left Image">
     </td>
     <td valign="bottom">
-      <br><br> <img src="URL_ЦЕНТРАЛЬНОГО_ФОТО" width="300" alt="Middle Image">
+      <br><br> <img src="https://github.com/user-attachments/assets/abcfb0af-ef16-4c58-8d26-999e793401b1" width="300" alt="Middle Image">
     </td>
     <td>
-      <img src="URL_ПРАВОГО_ФОТО" width="300" alt="Right Image">
+      <img src="https://github.com/user-attachments/assets/6b161980-b6b0-4416-b7d9-3264edf094df" width="250" alt="Right Image">
     </td>
   </tr>
 </table>

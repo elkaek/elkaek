@@ -3,7 +3,7 @@
   ![mahoraga&#39;s-adaptation-mahoraga&#39;s-wheel](https://github.com/user-attachments/assets/056e36cd-9bec-47ef-a1dd-2f98500e1b87)
 # Greetings to all 😶‍🌫️
 ## I'm El
-### Just one of many fresh students/programmer at an interesting polar state university ❄️
+### Just one of many fresh students/programmer at Polar State University ❄️
 
 ---
 
@@ -12,8 +12,7 @@
 </div>
 
 # Who am i <picture><source srcset="https://github.com/user-attachments/assets/66cd9971-d064-4484-8fd9-ee991d437bd8" type="image/webp"> <img src="https://github.com/user-attachments/assets/66cd9971-d064-4484-8fd9-ee991d437bd8" alt="🐻‍❄️" width="48" height="48"> </picture>
-^ In more detail, I am a beginner programmer who had to learn a lot of computer science in less than 2 years. This adaptation was driven by my desire to learn one of the leading fields in our future.
-^ I'm currently studying at my university and gradually becoming a more qualified future specialist. I hope this continues.
+^ In more detail, I am a beginner programmer who had to learn a lot of computer science in less than 2 years. This adaptation was driven by my desire to learn one of the leading fields in our future. I'm currently studying at my university and gradually becoming a more qualified future specialist. I hope this continues.
 
 # Also <picture><source srcset="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" type="image/webp"> <img src="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" alt="❤️" width="48" height="48"> </picture>
 ^  In addition to learning programming and all its aspects and languages. I am a self-taught artist who enjoys drawing anything I want.
@@ -44,6 +43,13 @@
     <td><img src="https://github.com/user-attachments/assets/8054edf8-fb62-4b74-82b9-118adbf82fe8" width="250"></td>
   </tr>
 </table>
+
+# Some places that I know and work a little bit about <picture><source srcset="https://github.com/user-attachments/assets/fe097c05-e50e-429d-8472-5a43781ebbde" type="image/webp"> <img src="https://github.com/user-attachments/assets/fe097c05-e50e-429d-8472-5a43781ebbde" alt="😒" width="48" height="48"> </picture>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7144064d-6490-4dd5-a67b-dd3114c69a7d" width="250" />
+  <img src="https://github.com/user-attachments/assets/424e0a1e-dfc6-4d75-a82a-f439c19b08d1" width="250" />
+  <img src="https://github.com/user-attachments/assets/2b96cfdb-9005-423d-9818-9efcbf1f17c1" width="250" />
+</div>
 
 # My one of many works in drawing <picture><source srcset="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" type="image/webp"> <img src="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" alt="🤣" width="48" height="48"> </picture>
 <p align="center">

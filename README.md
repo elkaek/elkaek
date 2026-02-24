@@ -1,7 +1,7 @@
 <div align="center">
 
   ![mahoraga&#39;s-adaptation-mahoraga&#39;s-wheel](https://github.com/user-attachments/assets/056e36cd-9bec-47ef-a1dd-2f98500e1b87)
-# Greetings to all 😶‍🌫️
+# Greetings to all <picture><source srcset="https://github.com/user-attachments/assets/4f22f079-b346-48af-966b-bde6d5db5c8b" type="image/webp"> <img src="https://github.com/user-attachments/assets/4f22f079-b346-48af-966b-bde6d5db5c8b" alt="😶" width="48" height="48"> </picture>
 ## I'm El
 ### Just one of many fresh students/programmer at Polar State University ❄️
 

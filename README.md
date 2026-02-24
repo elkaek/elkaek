@@ -13,6 +13,7 @@
 
 # Who am i <picture><source srcset="https://github.com/user-attachments/assets/66cd9971-d064-4484-8fd9-ee991d437bd8" type="image/webp"> <img src="https://github.com/user-attachments/assets/66cd9971-d064-4484-8fd9-ee991d437bd8" alt="🐻‍❄️" width="48" height="48"> </picture>
 ^ In more detail, I am a beginner programmer who had to learn a lot of computer science in less than 2 years. This adaptation was driven by my desire to learn one of the leading fields in our future.
+^ I'm currently studying at my university and gradually becoming a more qualified future specialist. I hope this continues.
 
 # Also <picture><source srcset="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" type="image/webp"> <img src="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" alt="❤️" width="48" height="48"> </picture>
 ^  In addition to learning programming and all its aspects and languages. I am a self-taught artist who enjoys drawing anything I want.
@@ -43,3 +44,10 @@
     <td><img src="https://github.com/user-attachments/assets/8054edf8-fb62-4b74-82b9-118adbf82fe8" width="250"></td>
   </tr>
 </table>
+
+# My one of many works in drawing <picture><source srcset="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" type="image/webp"> <img src="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" alt="🤣" width="48" height="48"> </picture>
+<p align="center">
+  <img src="URL_ИКОНКИ_1" width="250" alt="icon1" />
+  <img src="URL_ИКОНКИ_2" width="250" alt="icon2" />
+  <img src="URL_ИКОНКИ_3" width="250" alt="icon3" />
+</p>

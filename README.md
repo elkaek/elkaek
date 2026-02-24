@@ -47,7 +47,7 @@
 
 # My one of many works in drawing <picture><source srcset="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" type="image/webp"> <img src="https://github.com/user-attachments/assets/dd9515ba-8975-4491-b1e6-4f97c421bfc4" alt="🤣" width="48" height="48"> </picture>
 <p align="center">
-  <img src="URL_ИКОНКИ_1" width="250" alt="icon1" />
-  <img src="URL_ИКОНКИ_2" width="250" alt="icon2" />
-  <img src="URL_ИКОНКИ_3" width="250" alt="icon3" />
+  <img src="https://github.com/user-attachments/assets/8a5c857e-c63e-447c-bb15-df87cdf55651" width="250" alt="icon1" />
+  <img src="https://github.com/user-attachments/assets/e8d00d33-44ab-425e-a69b-7fb43f966926" width="250" alt="icon2" />
+  <img src="https://github.com/user-attachments/assets/d89c6e3d-2a86-4727-a0c8-d7d41d9b069e" width="250" alt="icon3" />
 </p>

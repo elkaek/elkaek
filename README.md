@@ -1,6 +1,20 @@
 <div align="center">
 
   ![mahoraga&#39;s-adaptation-mahoraga&#39;s-wheel](https://github.com/user-attachments/assets/056e36cd-9bec-47ef-a1dd-2f98500e1b87)
-## Greetings to all 😶‍🌫️
+# Greetings to all 😶‍🌫️
 ## I'm El
-### Just one of many students at an interesting polar state university ❄️
+### Just one of many fresh students/programmer at an interesting polar state university ❄️
+
+---
+
+</p>
+
+</div>
+
+## Who am i 🐻‍❄️
+^ In more detail, I am a beginner programmer who had to learn a lot of computer science in less than 2 years. This adaptation was driven by my desire to learn one of the leading fields in our future. In addition to learning programming and all its aspects and languages
+
+## Also <picture><source srcset="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" type="image/webp"> <img src="https://github.com/user-attachments/assets/5bde73a2-b3b7-402a-81cc-c37ddf0e7d68" alt="❤️" width="48" height="48"> </picture>
+I am a self-taught artist who enjoys drawing anything I want.
+As a gamer, I prefer a variety of options from long games with plot to others online-games and i spend my daily time here: Genshin, HSR, ZZZ, WUWA, CS2, MarvelR and etc
+ 

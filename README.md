@@ -22,7 +22,7 @@
 ---
 <div align="center">
   
-# My skills as programmer <picture><source srcset="https://github.com/user-attachments/assets/7230e482-a227-4327-9d52-f079c9e3b4a3" type="image/webp"> <img src="https://github.com/user-attachments/assets/7230e482-a227-4327-9d52-f079c9e3b4a3" alt="😍" width="48" height="48"> </picture>
+# What programming languages do I work/worked <picture><source srcset="https://github.com/user-attachments/assets/7230e482-a227-4327-9d52-f079c9e3b4a3" type="image/webp"> <img src="https://github.com/user-attachments/assets/7230e482-a227-4327-9d52-f079c9e3b4a3" alt="😍" width="48" height="48"> </picture>
 
 <table border="0">
   <tr>
@@ -57,4 +57,15 @@
   <img src="https://github.com/user-attachments/assets/8a5c857e-c63e-447c-bb15-df87cdf55651" width="250" alt="icon1" />
   <img src="https://github.com/user-attachments/assets/e8d00d33-44ab-425e-a69b-7fb43f966926" width="250" alt="icon2" />
   <img src="https://github.com/user-attachments/assets/d89c6e3d-2a86-4727-a0c8-d7d41d9b069e" width="250" alt="icon3" />
+</p>
+
+# My contacts 📬
+![gojo-satoru](https://github.com/user-attachments/assets/296e0169-8c7e-411c-adeb-7215ac4e63e9)
+<p align="center">
+  <a href="t.me/Avenir1k">
+    <img src="https://github.com/user-attachments/assets/c4948cfa-dfac-4a0b-9a08-a196c744eb30" width="150" alt="Icon 1" title="Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:ekanemeka02@gmail.com">
+    <img src="https://github.com/user-attachments/assets/97142c50-eca8-4a7d-a5df-102bda2593cb" width="150" alt="Icon 2" title="Mailbox" />
+  </a>
 </p>

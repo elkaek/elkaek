@@ -26,7 +26,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="<img width="1920" height="2161" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/b432cac0-9bff-4598-b392-a11c096e2ff2" />" width="300" alt="Left Image">
+      <img src="https://github.com/user-attachments/assets/b432cac0-9bff-4598-b392-a11c096e2ff2" width="500" alt="Left Image">
     </td>
     <td valign="bottom">
       <br><br> <img src="URL_ЦЕНТРАЛЬНОГО_ФОТО" width="300" alt="Middle Image">
